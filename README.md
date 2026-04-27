@@ -1,1 +1,1 @@
-#my-github-class
+my-github-class
